@@ -1,16 +1,40 @@
-## Hi there 👋
+# ✦ Shhahbaz;
 
-<!--
-**shhahbaz/shhahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*architecting systems · crafting interfaces · automating logic*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Rust** — performance without compromise  
+**Typescript** — safety at every layer  
+**Python** — where ideas become pipelines
+
+---
+
+About me
+
+i build things that run fast, scale well, and make sense.
+systems programming, full-stack applications, and data automation.
+
+right now: rust microservices · typescript frontends · python backends
+
+---
+
+Currently
+
+building some private things.
+
+---
+
+Philosophy
+
+*elegance is not optional.*  
+*type safety is not a burden.*  
+*performance is not an afterthought.*
+
+---
+
+<div align="center">
+  
+  **code · ship · repeat**
+
+</div>
