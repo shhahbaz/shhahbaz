@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 94" role="img" aria-label="SHHAHBAZ">
+  
+  <!-- S -->
+  <rect x="10" y="0" width="42" height="12.5" fill="#86dc9a"/>
+  <rect x="10" y="12" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="10" y="24" width="42" height="12.5" fill="#86dc9a"/>
+  <rect x="24" y="36" width="28" height="12.5" fill="#86dc9a"/>
+  
+  <!-- H -->
+  <rect x="66" y="0" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="94" y="0" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="66" y="12" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="94" y="12" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="66" y="24" width="42" height="12.5" fill="#86dc9a"/>
+  <rect x="66" y="36" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="94" y="36" width="14" height="12.5" fill="#86dc9a"/>
+  
+  <!-- H -->
+  <rect x="122" y="0" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="150" y="0" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="122" y="12" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="150" y="12" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="122" y="24" width="42" height="12.5" fill="#86dc9a"/>
+  <rect x="122" y="36" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="150" y="36" width="14" height="12.5" fill="#86dc9a"/>
+  
+  <!-- A -->
+  <rect x="178" y="0" width="42" height="12.5" fill="#86dc9a"/>
+  <rect x="178" y="12" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="206" y="12" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="178" y="24" width="42" height="12.5" fill="#86dc9a"/>
+  <rect x="178" y="36" width="14" height="12.5" fill="#86dc9a"/>
+  <rect x="206" y="36" width="14" height="12.5" fill="#86dc9a"/>
+  
+  <!-- H -->
+  <rect x="234" y="0" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="262" y="0" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="234" y="12" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="262" y="12" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="234" y="24" width="42" height="12.5" fill="#4eba65"/>
+  <rect x="234" y="36" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="262" y="36" width="14" height="12.5" fill="#4eba65"/>
+  
+  <!-- B -->
+  <rect x="290" y="0" width="42" height="12.5" fill="#4eba65"/>
+  <rect x="290" y="12" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="318" y="12" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="290" y="24" width="42" height="12.5" fill="#4eba65"/>
+  <rect x="290" y="36" width="28" height="12.5" fill="#4eba65"/>
+  
+  <!-- A -->
+  <rect x="346" y="0" width="42" height="12.5" fill="#4eba65"/>
+  <rect x="346" y="12" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="374" y="12" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="346" y="24" width="42" height="12.5" fill="#4eba65"/>
+  <rect x="346" y="36" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="374" y="36" width="14" height="12.5" fill="#4eba65"/>
+  
+  <!-- Z -->
+  <rect x="402" y="0" width="42" height="12.5" fill="#4eba65"/>
+  <rect x="430" y="12" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="416" y="24" width="14" height="12.5" fill="#4eba65"/>
+  <rect x="402" y="36" width="42" height="12.5" fill="#4eba65"/>
+</svg>
